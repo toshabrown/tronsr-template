@@ -1,14 +1,11 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Tosha Brown
+Role: CFO, CEO LuckyGames
 
 ## Team Member 1
 
-Name: [name]
-Role: [role]
+Name: LeTron James
+Role: Technical Partner
 
-## Team Member 2
 
-Name: [name]
-Role: [role]
