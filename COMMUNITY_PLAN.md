@@ -1,1 +1,1 @@
-Describe the plan to support the community
+We are gaining members and using hashes from tronscan to award prizes, directly based on transactions in tronscan. We have given away millions of tokens and sponsored games in other channels and are developing even more benefits for members of our chats on telegram, as well as pumping rewards back into our community.
